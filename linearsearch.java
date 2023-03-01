@@ -8,10 +8,6 @@ for(int i=0; i<numbers.length; i++)
     {
         return i;
     }
-    else
-    {
-        return -1;
-    }
 }
 return -1;
     }
